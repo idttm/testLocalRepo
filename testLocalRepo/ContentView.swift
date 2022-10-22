@@ -18,6 +18,7 @@ struct ContentView: View {
             Text("I'm fine")
         }
         .padding()
+        .font(.title)
     }
 }
 
