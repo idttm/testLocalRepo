@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Hello, world!")
             Text("How are you?")
             Text("I'm fine")
+            Text("I'm fine too")
         }
         .padding()
         .font(.title)
